@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Fable - A React Framework Logo" width="400" src="https://fablejs.com/assets/FableJS_Logo_BGWHITE.svg" />
+  <img alt="Fable - A React Framework Logo" width="400" src="https://fablejs.com/assets/FableJS_Logo_BGTRANSPARENT.svg" />
 </p>
 <p align="center">
   A progressive React.js framework for building feature-rich UIs with delightful DX (developer experience)
